@@ -9,3 +9,15 @@
 **Call Sign:** JC
 
 ----
+
+# Clone Army
+
+## Patrick O'Connor
+
+**Rank:** Lieutenant
+
+**Designation:** IG-88
+
+**Call Sign:** PO
+
+----
